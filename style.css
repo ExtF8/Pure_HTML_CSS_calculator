@@ -1,0 +1,103 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #888;
+}
+
+h1 {
+  text-align: center;
+  text-justify: auto;
+  font-weight: bolder;
+  text-transform: uppercase;
+  
+}
+
+table {
+  margin: auto;
+  background-color: chocolate;
+  width: 295px;
+  height: 325px;
+  text-align: center;
+  border-radius: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 30px;
+
+  padding-bottom: 10px;
+}
+
+input {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  position: relative;
+ 
+  color: #495069;
+  /*  background-color: #fff; */
+  border: solid 0;
+  width: 60px;
+  height: 60px;
+  border-radius: 200px;
+  margin: 5px;
+  font-size: 42px;
+  font-weight: thin;
+  text-align: center center;
+  padding: 2px 2px;
+
+
+}
+
+#clear {
+  text-transform: uppercase;
+}
+
+#opposite {
+  font-size: xx-large;
+}
+
+/* input:active {
+  top: 4px;
+  border: 0;
+  color: #495069;
+  background-color: #fff;
+  border-radius: 200px;
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin: 5px;
+  font-size: 20px;
+} */
+
+#display {
+  width: 280px;
+  max-width: 285px;
+  font-size: 56px;
+  text-align: right;
+  background-color: transparent;
+  position: relative;
+  border: hidden;
+  border-radius: 0%;
+
+
+}
+
+#zero {
+  
+  width: 140px;
+  border-end-end-radius: 50%;
+}
+
+#test {
+  position: right;
+
+}
+
+
+footer {
+  position: absolute;
+  bottom: 0;
+  vertical-align: baseline;
+  width: auto;
+  height: 60px;
+  font-size: small;
+}
+
+button {}
