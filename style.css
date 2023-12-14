@@ -16,7 +16,7 @@ body {
 }
 
 .section{
-    margin-bottom: 50%;
+    margin-bottom: 48%;
 }
 
 footer {
@@ -37,7 +37,7 @@ footer {
     box-sizing: border-box;
 }
 
-h1 {
+h1, h3 {
     text-align: center;
     text-justify: auto;
     font-weight: bolder;
