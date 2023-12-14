@@ -28,3 +28,7 @@ Through this project, I gained a fundamental understanding of:
 -   HTML structure and elements.
 -   CSS styling and layout techniques.
 -   Responsive design principles.
+
+## Live Demo
+
+You can view a live demo of the project [here](https://extf8.github.io/Pure_HTML_CSS_calculator/).
